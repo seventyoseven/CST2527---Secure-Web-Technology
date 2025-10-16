@@ -1,1 +1,1 @@
-# CST2527---Secure-Web-Technology
+# CST2527 - Secure-Web-Technology
